@@ -77,5 +77,4 @@ SwiftUI app that displays cat breeds from the CAT API, built with MVVM architect
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlos01amc&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlos01amc&layout=compact&theme=dark&hide_border=true"/>
 </div>
