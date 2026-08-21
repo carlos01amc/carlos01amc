@@ -34,7 +34,7 @@ User dashboard application with authentication and product management functional
 Interactive web platform designed to simplify complex mathematical concepts through engaging, user-friendly visualizations. 
 
 
-#### 📱 [Cat Breeds Mobile App](Cats-Mobile-App)
+#### 📱 [Cat Breeds Mobile App](Cats-Mobile-App)](https://github.com/carlos01amc/Cats-Mobile-App)
 `Swift` · `SwiftUI` · `MVVM`
 
 SwiftUI app that displays cat breeds from the CAT API, built with MVVM architecture and SwiftData persistence. Users can search, view details and favorite breeds.
