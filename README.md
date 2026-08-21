@@ -1,40 +1,81 @@
-## My University Projects 🎓
+<h1 align="center">Hi, I'm Carlos 👋</h1>
 
-## Software Engineering at IPCA
+<p align="center">
+  <b>iOS Engineer</b> · expanding into Fullstack · Guimarães, Portugal 🇵🇹
+</p>
 
-### 1st year - 1st semester 
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos01amc/">LinkedIn</a> ·
+  <a href="mailto:carlos01amc@gmail.com">Email</a> ·
+  <a href="https://github.com/carlos01sword">Work Github</a>
+</p>
 
-- Algorithms and Data Structures 1 - C - [Project ](https://github.com/carlos01amc/Projeto-AED2)
+---
 
-### 1st year - 2nd semester 
+### About me
 
-- Algorithms and Data Structures 2 - C - [Project ](https://github.com/carlos01amc/Projeto-AED1)
-- Object-Oriented Programming (OOP) - C# - [Project ](https://github.com/carlos01amc/Projeto-POO)
+iOS Engineer @Sword Health, BSc in Computer Science @UMinho.
 
-## Computer Science at UMinho
+- 🔨 **Day-to-day:** Swift, SwiftUI, Jenkins, Git
 
-### 1st year - 1st semester 
-- Functional Programming - Haskell - [Exercises ](https://github.com/carlos01amc/Haskell-50q)
+---
 
-### 2nd year - 2nd semester 
-- Operating Systems (OS) - C - [Project ](https://github.com/carlos01amc/Projeto-SO)
+### Featured projects
 
-### 3rd year - 1st semester 
-- DataBase - SQL - [Project ](https://github.com/carlos01amc/Projeto-BD)
-- Language Processing and Compilers - Python [Project ](https://github.com/carlos01amc/Projeto-PLC)
+#### 🖥️ [Dashboard App](https://github.com/carlos01amc/Dashboard-App)
+`Node.js` · `Express` · `JavaScript` 
 
-### 3rd year - 2nd semester 
-- Computer Graphics - C++  - [Project ](https://github.com/carlos01amc/Projeto-CG)
-- Concurrent Programming - Java - [Project ](https://github.com/carlos01amc/Projeto-PC)
-- Quantum Computing - Qiskit - [Project ](https://github.com/carlos01amc/Projeto-IC)
-- Final Course Project - Python - Bootstrap - SQLite - Mathematica - [Project ](https://github.com/carlos01amc/Projeto-FlashesMat)
-
-## Masters in Software Engineering at UMinho
-
-### 1st year - 1st semester 
-- Network Services Engineering - Python - [Project ](https://github.com/carlos01amc/Projeto-ESR)
+User dashboard application with authentication and product management functionality. Users can view, add, edit, and delete products once logged in.
 
 
-<div>
-  <img height="180em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlos01amc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+#### 📐 [FlashesMat](https://github.com/carlos01amc/Projeto-FlashesMat)
+`Python` · `Flask` · `SQLite` · `Bootstrap` · `Mathematica`
+
+Interactive web platform designed to simplify complex mathematical concepts through engaging, user-friendly visualizations. 
+
+
+#### 📱 [Cat Breeds Mobile App](Cats-Mobile-App)
+`Swift` · `SwiftUI` · `MVVM`
+
+SwiftUI app that displays cat breeds from the CAT API, built with MVVM architecture and SwiftData persistence. Users can search, view details and favorite breeds.
+
+---
+
+### Tech
+
+- **Mobile** · Swift · SwiftUI · UIKit
+- **Backend** · Node.js · Express · Flask · Python · Java 
+- **Frontend** · JavaScript · HTML/CSS · Bootstrap
+- **Data** · SQL · SQLite 
+
+---
+
+<details>
+<summary><b>📚 University coursework</b> </summary>
+
+<br>
+
+**BSc Computer Science — UMinho**
+
+| Course | Language | |
+|---|---|---|
+| Algorithms & Data Structures 1 | C | [Repo](https://github.com/carlos01amc/Projeto-AED1) |
+| Algorithms & Data Structures 2 | C | [Repo](https://github.com/carlos01amc/Projeto-AED2) |
+| Object-Oriented Programming | C# | [Repo](https://github.com/carlos01amc/Projeto-POO) |
+| Functional Programming | Haskell | [Exercises](https://github.com/carlos01amc/Haskell-50q) |
+| Operating Systems | C | [Repo](https://github.com/carlos01amc/Projeto-SO) |
+| Databases | SQL | [Repo](https://github.com/carlos01amc/Projeto-BD) |
+| Language Processing & Compilers | Python | [Repo](https://github.com/carlos01amc/Projeto-PLC) |
+| Computer Graphics | C++ | [Repo](https://github.com/carlos01amc/Projeto-CG) |
+| Concurrent Programming | Java | [Repo](https://github.com/carlos01amc/Projeto-PC) |
+| Quantum Computing | Qiskit | [Repo](https://github.com/carlos01amc/Projeto-IC) |
+| Network Services Engineering | Python | [Repo](https://github.com/carlos01amc/Projeto-ESR) |
+
+</details>
+
+---
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlos01amc&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlos01amc&layout=compact&theme=dark&hide_border=true"/>
 </div>
