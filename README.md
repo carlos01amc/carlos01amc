@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Carlos 👋</h1>
 
 <p align="center">
-  <b>iOS Engineer</b> · expanding into Fullstack · Guimarães, Portugal 🇵🇹
+  <b>iOS Engineer</b> · Expanding into Fullstack · Guimarães, Portugal 🇵🇹
 </p>
 
 <p align="center">
